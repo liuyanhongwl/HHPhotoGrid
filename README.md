@@ -1,0 +1,1 @@
+AssetsLibrary.framework和Photos.framework.

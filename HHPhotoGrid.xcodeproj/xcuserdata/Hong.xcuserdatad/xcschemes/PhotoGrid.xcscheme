@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F189F0CF1BCF426F00E50D29"
-               BuildableName = "PhotoGrid.app"
-               BlueprintName = "PhotoGrid"
-               ReferencedContainer = "container:PhotoGrid.xcodeproj">
+               BuildableName = "HHPhotoGrid.app"
+               BlueprintName = "HHPhotoGrid"
+               ReferencedContainer = "container:HHPhotoGrid.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F189F0E81BCF426F00E50D29"
-               BuildableName = "PhotoGridTests.xctest"
-               BlueprintName = "PhotoGridTests"
-               ReferencedContainer = "container:PhotoGrid.xcodeproj">
+               BuildableName = "HHPhotoGrid.xctest"
+               BlueprintName = "HHPhotoGridTests"
+               ReferencedContainer = "container:HHPhotoGrid.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F189F0F31BCF426F00E50D29"
-               BuildableName = "PhotoGridUITests.xctest"
-               BlueprintName = "PhotoGridUITests"
-               ReferencedContainer = "container:PhotoGrid.xcodeproj">
+               BuildableName = "HHPhotoGrid.xctest"
+               BlueprintName = "HHPhotoGridUITests"
+               ReferencedContainer = "container:HHPhotoGrid.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F189F0CF1BCF426F00E50D29"
-            BuildableName = "PhotoGrid.app"
-            BlueprintName = "PhotoGrid"
-            ReferencedContainer = "container:PhotoGrid.xcodeproj">
+            BuildableName = "HHPhotoGrid.app"
+            BlueprintName = "HHPhotoGrid"
+            ReferencedContainer = "container:HHPhotoGrid.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F189F0CF1BCF426F00E50D29"
-            BuildableName = "PhotoGrid.app"
-            BlueprintName = "PhotoGrid"
-            ReferencedContainer = "container:PhotoGrid.xcodeproj">
+            BuildableName = "HHPhotoGrid.app"
+            BlueprintName = "HHPhotoGrid"
+            ReferencedContainer = "container:HHPhotoGrid.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F189F0CF1BCF426F00E50D29"
-            BuildableName = "PhotoGrid.app"
-            BlueprintName = "PhotoGrid"
-            ReferencedContainer = "container:PhotoGrid.xcodeproj">
+            BuildableName = "HHPhotoGrid.app"
+            BlueprintName = "HHPhotoGrid"
+            ReferencedContainer = "container:HHPhotoGrid.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

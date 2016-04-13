@@ -1,15 +1,14 @@
+
 //
-//  ViewController.h
+//  LDImageModel.m
 //  PhotoGrid
 //
 //  Created by Hong on 15/10/15.
 //  Copyright © 2015年 Hong. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "HHImageModel.h"
 
-@interface ViewController : UIViewController
-
+@implementation HHImageModel
 
 @end
-

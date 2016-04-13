@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:PhotoGrid.xcodeproj">
+      location = "self:/Users/Hong/Desktop/project/test-project/PhotoGrid/HHPhotoGrid.xcodeproj">
    </FileRef>
 </Workspace>
